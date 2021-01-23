@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techs on N30j0su3 CV</title>
+    <link>https://n30j0su3.github.io/cv/techs/</link>
+    <description>Recent content in Techs on N30j0su3 CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© N30j0su3 2020</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://n30j0su3.github.io/cv/techs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D3</title>
+      <link>https://n30j0su3.github.io/cv/techs/d3/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/techs/d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://n30j0su3.github.io/cv/techs/javascript/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/techs/javascript/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,6 @@
+git remote add origin https://github.com/n30j0su3/cv.git
+git add .
+git commit -m "Lastest changes"
+git branch -u origin/gh-pages gh-pages
+git fetch origin
+git push -u origin gh-pages
