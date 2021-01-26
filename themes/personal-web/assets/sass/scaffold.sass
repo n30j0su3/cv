@@ -124,31 +124,35 @@ header
     font-weight: $font-weight_main
     +transition(all 0.25s)
     line-height: $line-height_menu
-    &:not(.social-link)
+    &:not(.social-link, .logo-link)
       border-bottom: $grey-100 1px dashed
 
   a:hover, a:focus, a:active
     color: $secondary-color
     &:not(.social-link)
       font-weight: $font-weight_h1
-      border-bottom: $grey-100 1px dashed
+      /*border-bottom: $grey-100 1px dashed*/
 
   .intro
-    padding: $padding-content
+    padding: $padding-content2
     position: absolute
-    bottom: 140px
+    bottom: 100px
 
   .rounded-logo
     +rounded
-    margin-bottom: 4/3*$margin-blocks
+    /*margin-bottom: 4/3*$margin-blocks*/
     display: block
     box-shadow: $box-shadow
+
+  +hd
+    .intro
+      bottom: 250px
 
   +tablet
     width: $sidebar-width-tablet
 
     .intro
-      bottom: 150px
+      bottom: 90px
 
     .socials
       max-width: $sidebar-width-tablet

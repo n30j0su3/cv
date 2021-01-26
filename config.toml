@@ -2,7 +2,7 @@ baseURL = "https://n30j0su3.github.io/cv/"
 languageCode = "es"
 title = "N30j0su3 CV"
 theme = "personal-web"
-copyright="© N30j0su3 2020"
+copyright="© N30j0su3 2021"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,11 +10,11 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm N30 :wave:"
-  sub = "I'm a Web Developer"
+  main = "Hi, I'm N30j0su3"
+  sub = "I'm a Fullstack Web Developer"
 
 [params.main]
-  latestPublishHeader = "My Latest Project"
+  latestPublishHeader = "My Latests Projects"
 
 [taxonomies]
   design = "designs"
@@ -40,9 +40,9 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar2.jpg" - Photo by Muhannad Ajjan on Unsplash
+  backgroundImage = 'images/default-sidebar2.jpg' # header background image - default "/images/default-sidebar2.jpg" - Photo by Muhannad Ajjan on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/Logo-freakinjson.png"
+  logo = "images/Logo-freakinjson.png" # - default "/images/Logo-freakinjson.png"
 [params.assets]
   favicon = ""
   customCSS = ""
@@ -60,8 +60,8 @@ pygmentsCodeFences=true
   #keybase = "https://keybase.io/"
 
 [params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = "jorojas1@gmail.com"
+  text= "Contact me :email:" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]

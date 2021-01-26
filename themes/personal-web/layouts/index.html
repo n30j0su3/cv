@@ -1,11 +1,12 @@
 {{ partial "header" .}}
 
-<h1>{{ .Title | markdownify }}</h1>
+<h1>{{/* .Title | markdownify */}}</h1>
 {{ .Content }}
 
 <h2>{{ .Site.Params.main.latestPublishHeader | default "My Latest Job" }}</h2>
   {{ $pages := where site.RegularPages "Type" "in" .Site.Params.mainSections }}
-  {{ range first 1 $pages }}
+  {{/*range first 1 $pages */}}
+  {{ range first 3 $pages }}
     {{ if in .Site.Params.mainSections "portfolio" }}
       {{ partial "portfolio/item" .}}
     {{ else if in .Site.Params.mainSections "post" }}

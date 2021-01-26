@@ -2,7 +2,7 @@
 
   <div class="intro">
     <div class="logo-container">
-      <a href="/">
+      <a href="{{.Site.BaseURL}}" class="logo-link">
         <img src='{{ .Site.Params.sidebar.logo | default "images/edna-west.jpg" | absURL }}' alt="Profile {{ .Title }}" class="rounded-logo">
       </a>
     </div>
