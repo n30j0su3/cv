@@ -1,0 +1,8 @@
+img[src*="#intro-img"] {
+    width: 100% !important;
+    margin: 0 !important;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+}

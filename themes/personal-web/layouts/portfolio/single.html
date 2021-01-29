@@ -4,10 +4,36 @@
 <div class="tags">
   {{ partial "portfolio/tags" .}}
 </div>
-
-<img title="{{.Title}}" alt="{{.Title}}" src="/portfolio/{{ .Params.Thumbnail }}" />
+<div class="flex-container">
+  <img title="{{.Title}}" alt="{{.Title}}" src="../{{.Params.Thumbnail }}" />
+</div>
 
 {{ .Content }}
+{{ if .Params.img_gallery }}
+  {{ partial "zoom_scripts" .}}
+  {{ $imgs := .Params.img_gallery }}
+  <div class = "img-gallery">
+  {{ range last 20 $imgs }}
+    <div class = "galleryDiv">
+      <img src = "../{{ . }}" alt = "">
+      <span class = "zoom-icon">
+        <i class = "fas fa-search-plus"></i>
+      </span>
+    </div>
+  {{ end }}
+  </div>
+  
+<!-- image preview modal -->
+<div id = "preview-modal-overlay">
+  <div id = "preview-box">
+    <span id = "modal-close-btn">
+      <i class = "fas fa-times"></i>
+    </span>
+    <img src = "" alt = "">
+  </div>
+</div>
+<script src="{{ .Site.BaseURL }}js/zoom_len.js"></script>
+{{ end }}
 
 {{ if .Params.testimonial }}
   <h3>Testimonial</h3>

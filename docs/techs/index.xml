@@ -7,22 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© N30j0su3 2021</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://n30j0su3.github.io/cv/techs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 08:47:09 +0200</lastBuildDate><atom:link href="https://n30j0su3.github.io/cv/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>D3</title>
-      <link>https://n30j0su3.github.io/cv/techs/d3/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <title>html</title>
+      <link>https://n30j0su3.github.io/cv/techs/html/</link>
+      <pubDate>Wed, 20 Jan 2021 08:47:09 +0200</pubDate>
       
-      <guid>https://n30j0su3.github.io/cv/techs/d3/</guid>
+      <guid>https://n30j0su3.github.io/cv/techs/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
       <link>https://n30j0su3.github.io/cv/techs/javascript/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <pubDate>Wed, 20 Jan 2021 08:47:09 +0200</pubDate>
       
       <guid>https://n30j0su3.github.io/cv/techs/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wordpress</title>
+      <link>https://n30j0su3.github.io/cv/techs/wordpress/</link>
+      <pubDate>Wed, 20 Jan 2021 08:47:09 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/techs/wordpress/</guid>
       <description></description>
     </item>
     

@@ -7,5 +7,5 @@
 <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
 <link rel="stylesheet" href="{{ $syntax.Permalink }}" integrity="{{ $syntax.Data.Integrity }}" media="screen">
 {{ if .Site.Params.assets.customCSS }}
-  <link rel="stylesheet" href="{{ .Site.Params.assets.customCSS }}" media="screen">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}{{.Site.Params.assets.customCSS}}" media="screen">
 {{ end }}

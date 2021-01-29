@@ -45,7 +45,7 @@ pygmentsCodeFences=true
   logo = "images/Logo-freakinjson.png" # - default "/images/Logo-freakinjson.png"
 [params.assets]
   favicon = ""
-  customCSS = ""
+  customCSS = "css/customCSS.css"
 
 [params.social]
   github = "https://github.com/n30j0su3"
