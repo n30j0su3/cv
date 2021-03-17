@@ -5,6 +5,7 @@
 
 <h2>{{ .Site.Params.main.latestPublishHeader | default "My Latest Job" }}</h2>
   {{ $pages := where site.RegularPages "Type" "in" .Site.Params.mainSections }}
+  <div class="flex-portfolio-container">
   {{/*range first 1 $pages */}}
   {{ range first 3 $pages }}
     {{ if in .Site.Params.mainSections "portfolio" }}
@@ -13,5 +14,19 @@
       {{ partial "post/item" .}}
     {{ end }}
   {{ end }}
+  </div>
+<a href="/cv/portfolio/">See all projects</a>
+
+<h2>{{ .Site.Params.main.latestPublishPostHeader | default "My Latest Posts" }}</h2>
+  {{ $pages := where site.RegularPages "Type" "in" .Site.Params.otherSections }}
+  <div class="flex-portfolio-container">
+  {{/*range first 1 $pages */}}
+  {{ range first 3 $pages }}
+    {{ if in .Site.Params.otherSections "post" }}
+      {{ partial "post/item" .}}
+    {{ end }}
+  {{ end }}
+  </div>
+<a href="/cv/post/">See all posts</a>
 
 {{ partial "footer" .}}

@@ -95,14 +95,15 @@ header
     .portfolio-container
       position: relative
       max-width: $max-width-content
-      margin-bottom: $margin-blocks
+      margin-bottom: $margin-portfolio
+      min-height: $min-height-portoflio
 
       .portfolio-details
         opacity: 0
         display: none
         width: 100%
         padding: 2em 1em
-        color: $primary-color
+        color: $white
         +transition(opacity 0.4s ease)
 
         p, h2
@@ -147,7 +148,7 @@ header
           display: none
 
         .portfolio-details
-          display: block
+          display: block 
           opacity: 1
           width: 100%
           padding: 0px
@@ -158,7 +159,7 @@ header
             line-height: $line-height_main
 
             span
-              background-image: linear-gradient(180deg, transparent 60%, $primary-color 0)
+              /*background-image: linear-gradient(180deg, transparent 60%, $primary-color 0)*/
               padding: 0 0.2em
 
           p, h2
@@ -190,3 +191,13 @@ header
 .logo-container
   display: flex
   justify-content: center
+
+.flex-portfolio-container
+  display: flex
+  flex-flow: row wrap
+  .portfolio-list
+    flex: 1 1 50%
+    padding: 0 1em
+  .post-container
+    flex: 1 1 50%
+    padding: 0 1em

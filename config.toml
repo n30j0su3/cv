@@ -15,6 +15,7 @@ pygmentsCodeFences=true
 
 [params.main]
   latestPublishHeader = "My Latests Projects"
+  latestPublishPostHeader = "My Latests Posts"
 
 [taxonomies]
   design = "designs"
@@ -27,6 +28,7 @@ pygmentsCodeFences=true
   breadcrumb = true
   accentColor = "#FD3519"
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  otherSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/

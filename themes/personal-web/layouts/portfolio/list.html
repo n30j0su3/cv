@@ -2,9 +2,10 @@
 
   <h1 id="title"> {{ .Title }}</h1>
   {{ .Content }}
-
-  {{ range .Pages.ByDate.Reverse }}
-    {{ partial "portfolio/item" .}}
-  {{ end }}
+  <div class="flex-portfolio-container">
+    {{ range .Pages.ByDate.Reverse }}
+      {{ partial "portfolio/item" .}}
+    {{ end }}
+  </div>
 
 {{ partial "footer" .}}
