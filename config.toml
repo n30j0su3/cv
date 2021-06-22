@@ -8,6 +8,7 @@ enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
+publishDir = "docs"
 
 [params.intro]
   main = "Hi, I'm N30j0su3"
