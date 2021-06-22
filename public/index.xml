@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on N30j0su3 CV</title>
+    <link>https://n30j0su3.github.io/cv/</link>
+    <description>Recent content in HOME on N30j0su3 CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© N30j0su3 2021</copyright>
+    <lastBuildDate>Wed, 20 Jan 2021 08:47:09 +0200</lastBuildDate><atom:link href="https://n30j0su3.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intergrade Chile</title>
+      <link>https://n30j0su3.github.io/cv/portfolio/intergrade/</link>
+      <pubDate>Wed, 20 Jan 2021 08:47:09 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/portfolio/intergrade/</guid>
+      <description>Design, architecture and web development from scratch by client requested. Ecommerce implementation with product upload automatic. The ecommerce was integrated with Transbank payment gateway. Responsive design, SEO ready and linked with social media.</description>
+    </item>
+    
+    <item>
+      <title>PMELEC S.A.S.</title>
+      <link>https://n30j0su3.github.io/cv/portfolio/pmelec/</link>
+      <pubDate>Fri, 18 Dec 2020 08:47:09 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/portfolio/pmelec/</guid>
+      <description>Architecture and web development on Wordpress for the client brand needs. Intuitive administrable layout, 100% responsive. SEO ready and linked with social media.</description>
+    </item>
+    
+    <item>
+      <title>Decorceramica</title>
+      <link>https://n30j0su3.github.io/cv/portfolio/decorceramica/</link>
+      <pubDate>Mon, 15 Jun 2020 08:47:09 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/portfolio/decorceramica/</guid>
+      <description>Ecommerce architecture and web development for the client needs. Custom shop manager based on Woocommerce, upload &amp;amp; update pruduct process customiced with ETL tool. Intuitive and administrable layout, 100% responsive. SEO ready and linked with social media.</description>
+    </item>
+    
+    <item>
+      <title>Alegra</title>
+      <link>https://n30j0su3.github.io/cv/portfolio/alegra/</link>
+      <pubDate>Sun, 15 Sep 2019 08:47:09 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/portfolio/alegra/</guid>
+      <description>Web development for the client needs over Wordpress. Custom contact forms. Intuitive and administrable layout, 100% responsive. SEO ready and linked with social media.</description>
+    </item>
+    
+    <item>
+      <title>Getting started</title>
+      <link>https://n30j0su3.github.io/cv/post/getting-started/</link>
+      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/post/getting-started/</guid>
+      <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Definition</title>
+      <link>https://n30j0su3.github.io/cv/post/portfolio-definition/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/post/portfolio-definition/</guid>
+      <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://n30j0su3.github.io/cv/post/images/portfolio-example.png&#34;
+         alt=&#34;Example of Portfolio page&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;Example of Portfolio page&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Archetypes management</title>
+      <link>https://n30j0su3.github.io/cv/post/archetypes/</link>
+      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/post/archetypes/</guid>
+      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Manage Your Menu</title>
+      <link>https://n30j0su3.github.io/cv/post/manage-your-menu/</link>
+      <pubDate>Thu, 02 May 2019 19:06:29 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/post/manage-your-menu/</guid>
+      <description>&lt;p&gt;Menu in the sidebar can be defined within the &lt;code&gt;config.toml&lt;/code&gt; or directly in the files.
+I prefer the config file approach, as this menu is pretty simple.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://n30j0su3.github.io/cv/post/shortcodes/</link>
+      <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/post/shortcodes/</guid>
+      <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Config File</title>
+      <link>https://n30j0su3.github.io/cv/post/config-file/</link>
+      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/post/config-file/</guid>
+      <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
+&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Graph image</title>
+      <link>https://n30j0su3.github.io/cv/post/define-specific-og-image/</link>
+      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      
+      <guid>https://n30j0su3.github.io/cv/post/define-specific-og-image/</guid>
+      <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
+For example, see content/_index.md page:</description>
+    </item>
+    
+  </channel>
+</rss>
