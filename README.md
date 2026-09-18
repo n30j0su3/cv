@@ -1,7 +1,9 @@
-# cv
-<h1><b>CV prototype on HUGO</b></h1>
-<p>This CV prototype was developted using HUGO/CLI and its based on <a href="https://github.com/bjacquemet/personal-web"><b>Personal Web theme</b></a></p>
-<br>
-<img src="https://raw.githubusercontent.com/n30j0su3/cv/gh-pages/cv.JPG">
-<br>
-<p>The prototype has access to portfolio and simple blog in the main page. Also can be used to set a <a href="https://pages.github.com/">Github pages</a></p>
+# Jeisson Rojas · N30 / Vector
+
+CV y portafolio bilingüe de AI Solutions Architecture — FreakingJSON.
+
+- [CV en español](https://n30j0su3.github.io/cv/es/)
+- [CV in English](https://n30j0su3.github.io/cv/en/)
+- [FreakingJSON](https://freakingjson.com/)
+
+`docs/` contiene la distribución estática pública del CV editorial aprobado. GitHub Pages publica esta carpeta desde `gh-pages`. Los archivos históricos de Hugo se conservan fuera de `docs/` por trazabilidad; no son la versión desplegada.
